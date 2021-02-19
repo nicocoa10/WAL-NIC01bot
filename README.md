@@ -10,7 +10,7 @@ Automated script to purchase an item in Walmart.com , using Python and Selenium 
 Some more Exception catching can be implemented , and error proof . If I have more time i will reinforce this little script . 11/14/20
 
 
-![Quick Demo ](https://raw.githubusercontent.com/nicocoa10/WAL-NIC01bot/main/ezgif-6-382510d2257f.gif)
+![Initial Architecture Diagram ](https://raw.githubusercontent.com/nicocoa10/MoonTrekTelescopeV2/master/MoonTrekTelescopeV2/backendDiagram.png)
 
 
 
